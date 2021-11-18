@@ -68,24 +68,4 @@ In this step we are going to..
 
 - - -
 
-### Assessment
-
-Your final product will be assessed on the following metrics:
-
-* Completion of assigned tasks
-
-* Visual appearance
-
-* Professionalism
-
-* Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
-
-**Good luck!**
-
-## Rubric
-
-[Unit 17 Rubric - Leaflet Homework - Visualizing Data with Leaflet](https://docs.google.com/document/d/1h1iH67V7UKOitS6K3nRrnOYbx-3KwEDC6ZWzpzDKxLc/edit?usp=sharing)
-
-- - -
-
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
